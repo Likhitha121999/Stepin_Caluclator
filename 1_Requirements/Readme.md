@@ -103,7 +103,7 @@ The Timeline of the project is 10 days.
 **Detail requirements**
 ---
 **High Level Requirements:**
-ID	Description	Category	status
-H001	A user should be able to perform arithmetic operations	Technical	Implemented
-H002	A user should be able to perform scientific operations	Technical	Implemented
-H003	A user should be able to perform Trigonometric operations	Technical	Implemented
+![image](https://user-images.githubusercontent.com/89643121/132123505-5aac86b7-a806-494a-9a67-fb5150e47846.png)
+
+**Low Level Requirements**
+![20](https://user-images.githubusercontent.com/89643121/132123548-a42a2d73-897c-46d7-ba49-4a002705f8ca.JPG)
