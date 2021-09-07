@@ -3,9 +3,9 @@ Calculates arithmetic, scientific, trigonometric operations
 
 Badges
 ---
-![Code Quaity Score][https://www.code-inspector.com/project/27779/score/svg]
+![Code Quaity Score](https://www.code-inspector.com/project/27779/score/svg)
 
-![Code Grade][https://www.code-inspector.com/project/27779/status/svg]
+![Code Grade](https://www.code-inspector.com/project/27779/status/svg)
 
 ## Folder Structure
 Folder             | Description
