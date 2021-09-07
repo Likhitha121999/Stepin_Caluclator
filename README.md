@@ -17,7 +17,7 @@ Folder             | Description
 ## Contributors List and Summary
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|-------------|----------------|----------------|---------------|-------------|--------------
-`260902` | K Satyadev  | SC1, SC2, SC3, SC4, SC5, SC6, SC7| 2   | 2   | 9  | 9     
+`260902` | ABC  | SC1, SC2, SC3, SC4, SC5, SC6, SC7| 2   | 2   | 9  | 9     
 
 | No |Feature  |
 |--|--|
