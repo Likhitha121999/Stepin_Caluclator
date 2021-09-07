@@ -15,9 +15,9 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 ## Contributors List and Summary
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+S.No |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|-------------|----------------|----------------|---------------|-------------|--------------
-`260902` | ABC  | SC1, SC2, SC3, SC4, SC5, SC6, SC7| 2   | 2   | 9  | 9     
+`102` | ABC  | SC1, SC2, SC3, SC4, SC5, SC6, SC7| 2   | 2   | 9  | 9     
 
 | No |Feature  |
 |--|--|
