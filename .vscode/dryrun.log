@@ -1,6 +1,0 @@
-make.exe all --dry-run --keep-going --print-directory
-make.exe: Entering directory 'c:/Users/likhitha/OneDrive/Documents/GitHub/Stepin_Caluclator'
-make.exe: Leaving directory 'c:/Users/likhitha/OneDrive/Documents/GitHub/Stepin_Caluclator'
- 
-make.exe: *** No rule to make target 'all'.
- 
