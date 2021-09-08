@@ -2,31 +2,29 @@
 ## Introduction
  A Scientific calculator is a device which can perform some mathematical operations like arthmetic operations
 & scinetific operations i.e here In this project we are going to implement some calculator operations using
-C Language with a Command Line Interface ( CLI ) where it can perform operations like :
- - Arthemetic Operations 
- - Scientific Operations 
- - Trignometric Operations
+C Language with a Command Line Interface ( CLI ) where it can perform operations like 
+ Arthemetic Operations 
+ Scientific Operations 
+ Trignometric Operations
 ## Research
 [Research paper](https://www.informs.org/Publications/INFORMS-Journals/Mathematics-of-Operations-Research)
 The Scientific calculator doesn't involve any complex operations or any operations. It is easy to apply the values in the system to find the required result rather than remembering and applying it in formula. Thus by studying all these facts, the necessary functions has been implemented to get the required results in a better way.
 ## Cost and Features
 Depending upon the project how well it is built and all the requirements will meet the cost and it can be varied according to the market.
-- Addition : The addition Add() function takes two operands as input and the function results in a+b.
-- Subtraction : The subtraction Sub() function takes two operands as input and the function results in a-b.
-- Multiplication : The multiplication Mul() function takes two operands as input and the function results in a*b.
-- Division : The division Div() function takes two operands as input and the function results in a/b.
-- Log : The log log10() function takes one operand as input and the function results in log10(x) value.
-- Power : The power() function takes two operands as input and the function results in X^Y value.
-- Squareroot : The sqrt() function takes one operand as input and the function results in √x.
-- Sin : The sin() function takes one operand as input and the function results in desired value.
-- Cos : The cos() function takes one operand as input and the function results in desired value.
-- Tan : The tan() function takes one operand as input and the function results in desired value.
+ Addition : The addition Add() function takes two operands as input and the function results in a+b.
+ Subtraction : The subtraction Sub() function takes two operands as input and the function results in a-b.
+ Multiplication : The multiplication Mul() function takes two operands as input and the function results in a*b.
+ Division : The division Div() function takes two operands as input and the function results in a/b.
+ Log : The log log10() function takes one operand as input and the function results in log10(x) value.
+ Power : The power() function takes two operands as input and the function results in X^Y value.
+ Squareroot : The sqrt() function takes one operand as input and the function results in √x.
+ Sin : The sin() function takes one operand as input and the function results in desired value.
+ Cos : The cos() function takes one operand as input and the function results in desired value.
+ Tan : The tan() function takes one operand as input and the function results in desired value.
 
 ## Defining Our System
   **Architecture:**
-  
    ![Architecture](https://user-images.githubusercontent.com/36398260/113976051-0bf6bf00-985e-11eb-82ba-8e720062fe61.PNG)
-
    
  - Scientific Calculator application is capable of performing following functions
 	 -  Arithmetic Operations
@@ -42,14 +40,9 @@ Depending upon the project how well it is built and all the requirements will me
 		 - LOG
 		 - POWER
 		 - SQUARE ROOT
-    
-
 ## SWOT ANALYSIS
 ![swot analysis](https://user-images.githubusercontent.com/36398260/113824520-89a6c600-979d-11eb-99d8-b258873850a1.png)
-
-
 # 4W&#39;s and 1&#39;H
-
 ## Who
  The project is used by everyone in day to day life. All the students and employess who requires the calculations will use the program to find their answer. The main objective of this project is the user should be satisfied with freindly interface and fast calculation
 
@@ -75,8 +68,6 @@ The Timeline of the project is 10 days.
 |H001 |A user should be able to perform arithmetic operations  | Technical |Implemented
 |H002 |A user should be able to perform scientific operations|Technical|Implemented
 |H003|A user should be able to perform Trigonometric operations |Technical|Implemented
-
-
 
 ##  Low level Requirements
 |ID| Description |HLR ID | status|
