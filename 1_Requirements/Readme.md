@@ -28,7 +28,7 @@ Depending upon the project how well it is built and all the requirements will me
    ![Architecture](https://user-images.githubusercontent.com/36398260/113976051-0bf6bf00-985e-11eb-82ba-8e720062fe61.PNG)
 
    
- - Scientific Calculator application is capable of performing following functions:
+ - Scientific Calculator application is capable of performing following functions
 	 -  Arithmetic Operations
 		 - MUL 
 		 - SUB
@@ -50,32 +50,26 @@ Depending upon the project how well it is built and all the requirements will me
 
 # 4W&#39;s and 1&#39;H
 
-## Who:
+## Who
+ The project is used by everyone in day to day life. All the students and employess who requires the calculations will use the program to find their answer. The main objective of this project is the user should be satisfied with freindly interface and fast calculation
 
-- The project is used by everyone in day to day life. All the students and employess who requires the calculations will use the program to find their answer. The main objective of this project is the user should be satisfied with freindly interface and fast calculation
+## What
+We can except the results that user can perform mathematical operations like arthimetic , Trigonometric & Scientific operations.
+All the basics functionalities are included in the project. User can use the program efficiently and get the required results.
 
-## What:
+## When
+The project can be used when the calculations are required  and get the results for basic and Math related problems and the result will be obtained fastly.
 
-- We can except the results that user can perform mathematical operations like arthimetic , Trigonometric & Scientific operations.
-- All the basics functionalities are included in the project. User can use the program efficiently and get the required results.
+## Where
+In all the Domains it can be used and the project is portable and user-friendly,  It should overcome all the drawbacks of the Old existing system and most important of all meet the user requirements.
 
-
-## When:
-
-- The project can be used when the calculations are required  and get the results for basic and Math related problems and the result will be obtained fastly.
-
-## Where:
-
-- In all the Domains it can be used and the project is portable and user-friendly,  It should overcome all the drawbacks of the Old existing system and most important of all meet the user requirements.
-
-## How:
-
-- The Project is going to be implemented in C language for the Both Windows & Linux OS
-- The constraints of the project are to develop using industry standards with a multi-file approach.
-- The Timeline of the project is 10 days.
+## How
+The Project is going to be implemented in C language for the Both Windows & Linux OS
+The constraints of the project are to develop using industry standards with a multi-file approach.
+The Timeline of the project is 10 days.
 
 # Detail requirements
-## High Level Requirements:
+## High Level Requirements
 |ID| Description |Category|status|
 |--|------------|------|---------|
 |H001 |A user should be able to perform arithmetic operations  | Technical |Implemented
@@ -84,7 +78,7 @@ Depending upon the project how well it is built and all the requirements will me
 
 
 
-##  Low level Requirements:
+##  Low level Requirements
 |ID| Description |HLR ID | status|
 |--|------------|------|---------|
 |L001 |When user performs the **' + '** operation the result should be sum of two numbers |H001|Implemented
