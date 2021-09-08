@@ -1,4 +1,7 @@
 # Stepin_Caluclator
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/920f6302d1d749909ec79fb6194c48ba)](https://app.codacy.com/gh/Likhitha121999/Stepin_Caluclator?utm_source=github.com&utm_medium=referral&utm_content=Likhitha121999/Stepin_Caluclator&utm_campaign=Badge_Grade_Settings)
+
 Calculates arithmetic, scientific, trigonometric operations
 
 Badges
