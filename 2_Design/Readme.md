@@ -11,11 +11,13 @@
 **Low Level Diagram**
 ---
 Arithmetic Operators Sequence Diagram
+
 ![Arithe_sequence](https://user-images.githubusercontent.com/89643121/132170036-ff47484e-8eef-4ed5-8ec5-a3abdfe0ee3f.png)
 
 Trigonometric Operators Sequence Diagram
+
 ![Trigono_sequence](https://user-images.githubusercontent.com/89643121/132170105-06c5fc99-5591-41e1-91ac-796d9fa8900a.png)
 
 Scientific Operators Sequence Diagram
-![Scien_sequence](https://user-images.githubusercontent.com/89643121/132170153-7610110d-ab1b-41c1-9622-8a84c17e447e.png)
 
+![Scien_sequence](https://user-images.githubusercontent.com/89643121/132170153-7610110d-ab1b-41c1-9622-8a84c17e447e.png)
